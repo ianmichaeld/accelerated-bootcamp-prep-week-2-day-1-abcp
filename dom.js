@@ -43,4 +43,4 @@ var document = [
 ]
 
 var ul = document[0].children[0].children
-console.log(ul)
+console.log(ul[0].value)

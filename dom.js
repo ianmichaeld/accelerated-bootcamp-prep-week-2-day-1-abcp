@@ -42,4 +42,5 @@ var document = [
   }
 ]
 
-console.log(document[0].children[0].children)
+var ul = document[0].children[0].children
+console.log(ul)
